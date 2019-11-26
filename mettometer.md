@@ -1,4 +1,4 @@
-# Privacy Policy
+# Privacy Policy for "MettOMeter"
 
 Raphael "rGunti" Guntersweiler built the MettOMeter app as a Free app. This SERVICE is provided by Raphael "rGunti" Guntersweiler at no cost and is intended for use as is.
 
